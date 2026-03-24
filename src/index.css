@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+*{
+    color: #fff;
+}
+
+/* input,textarea{
+      background-color: white; /* Changes the background color of the input box to white */
+  /* border-color: white; (Optional) Changes the border color to white */
+
+
+body{
+    background-color:#111;
+}
+/* #tasklist::-webkit-scrollbar{
+    display:none
+} */
+
+.hide-scrollbar {
+  /* For Internet Explorer, Edge, and older versions of Opera */
+  -ms-overflow-style: none;
+  /* For Firefox */
+  scrollbar-width: none;
+  /* Add ability to scroll (optional, default is auto) */
+  overflow-y: scroll;
+}
+
+/* For Chrome, Safari, and newer versions of Edge/Opera (WebKit) */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
