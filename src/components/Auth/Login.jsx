@@ -12,7 +12,7 @@ const submitHandler=(e)=>{
     setPassword('');
 }
     return (
-        <div className='flex h-screen w-screen items-center justify-center'>
+        <div className='flex h-screen w-screen items-center justify-center '>
             <div className='border-2 border-emerald-600 p-20 rounded'>
                 <form onSubmit={(e)=>{submitHandler(e)}} className ="flex flex-col item-center justify-center">
                     <input 

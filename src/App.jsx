@@ -7,7 +7,7 @@ import {AuthContext} from './context/AuthProvider'
 
 
 
-export const App = () => {
+export const App = () =>  {
 
   const[user,setUser] = useState(null);
   const[logedInUserData,setLogedInUserData]=useState(null);
