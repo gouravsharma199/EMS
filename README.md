@@ -370,24 +370,10 @@ GitHub:
 https://github.com/gouravsharma199
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/gouravsharma09
 
 ---
 
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
-A few suggestions before you publish
-From the code you shared, I noticed a couple of issues you may want to fix before showcasing this project:
-
-FailedTask.jsx uses data but doesn't receive it as a prop (({data}) is missing).
-
-There are several typos such as logedInUser, asignTo, and item-center that you could clean up.
-
-The "Accept Task", "Mark as Completed", and "Mark as Failed" buttons currently render the UI but don't appear to update task status yet.
-
-Consider adding a README section with screenshots or a GIF of the application—this significantly improves the project's presentation during interviews.
-
-Overall, this is a solid beginner-to-intermediate React project that demonstrates Context API, component architecture, state management, conditional rendering, forms, and Local Storage, making it a good portfolio piece.
-
-
